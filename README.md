@@ -17,7 +17,7 @@ Terdapat 5 tabel yang terdiri dari:
 
 # TABEL 
 ![alt text](https://github.com/sartika312310174/tugas-koneksi/blob/main/Screenshot%20(355).png?raw=true)
-#![alt text](https://github.com/sartika312310174/tugas-koneksi/blob/main/Screenshot%20(356).png?raw=true)
+![alt text](https://github.com/sartika312310174/tugas-koneksi/blob/main/Screenshot%20(356).png?raw=true)
 
 # DESAIN TABEL
-#![alt text](https://github.com/sartika312310174/tugas-koneksi/blob/main/Screenshot%20(357).png?raw=true)
+![alt text](https://github.com/sartika312310174/tugas-koneksi/blob/main/Screenshot%20(357).png?raw=true)
